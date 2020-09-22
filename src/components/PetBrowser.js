@@ -4,8 +4,7 @@ import Pet from './Pet'
 
 class PetBrowser extends React.Component {
 
- 
-  
+
   
   render() {
     console.log(this.props.pets)

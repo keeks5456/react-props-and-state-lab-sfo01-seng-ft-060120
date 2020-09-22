@@ -54,7 +54,7 @@ class App extends React.Component {
             type: e.target.value
           }
         })
-      } //why isnt this working??
+      } 
 
   render() {
     return (
